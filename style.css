@@ -1,0 +1,90 @@
+body {
+  padding-top: 65px;
+  margin-top: auto !important;
+  background-image: url(https://static.pexels.com/photos/126793/pexels-photo-126793.jpeg);
+  background-position: center !important;
+  background-size: cover !important;
+  background-repeat: no-repeat;
+  max-width: 1200px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#headline {
+  background-image: url(https://static.pexels.com/photos/128420/pexels-photo-128420.jpeg);
+  background-position: center;
+  background-size: 700px;
+  border-radius: 5px;
+  color: white !important;
+  margin-bottom: 30px;
+  padding-bottom: 5px;
+}
+
+#produce-info {
+  background-color: rgba(13, 59, 2, 50%);
+  padding: 30px 20px;
+  border-radius: 5px;
+}
+
+.white {
+  color: rgb(255, 255, 255) !important;
+}
+
+.thumbnail {
+  border: 0 none;
+  box-shadow: none;
+  margin: auto;
+  padding: 0;
+  background-color: inherit;
+}
+
+.caption {
+  width: auto;
+  top: 40%;
+  left: 41%;
+  position: absolute;
+  color: rgba(255, 255, 255, 0.8) !important;
+}
+
+.circles {
+  padding-top: 5px;
+  padding-bottom: 10px;
+  border-radius: 5px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 10px;
+}
+
+#circles1 {
+  margin: 0;
+}
+
+#veggie {
+  padding-bottom: 10px;
+}
+
+#circle-2a {
+  max-height: 247.33px;
+}
+
+#zucchini-pics {
+  max-height: 247.33px;
+}
+
+#braeden {
+  background-color: rgba(13, 59, 2, 50%);
+  border-radius: 5px;
+}
+
+#face {
+  max-height: 400px;
+  padding: 10px;
+  border-radius: 100%;
+}
+
+#bio {
+}
+
+#latin{
+  padding-top: 30px;
+}
